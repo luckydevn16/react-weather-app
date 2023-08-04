@@ -6,4 +6,4 @@ The application allows user to find out the weather in a specific location at th
 
 Data is taken from [Weather API](https://openweathermap.org/api) using REST API technology.
 
-Here's the [demo](https://redhatdev16.github.io/react-weather-app/).
+Here's the [demo](https://luckydevn16.github.io/react-weather-app/).
